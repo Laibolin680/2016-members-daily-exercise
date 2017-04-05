@@ -4,16 +4,23 @@
 --2016-members-daily-exercise
 
   |
+  
   |----张三
   
          |
+         
          |------task1
+         
          |
+         
          |------task2
          
   |----李四
   
          |
+         
          |------task1
+         
          |
+         
          |------task2
